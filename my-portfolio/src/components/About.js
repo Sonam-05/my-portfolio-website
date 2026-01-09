@@ -65,7 +65,7 @@ export default function About() {
       <div className="right">
         <h2 id="about-heading">About me</h2>
         <p>
-          Dynamic Software Engineer with 4+ years of experience in front-end and
+          Dynamic Software Engineer with 4.5+ years of experience in front-end and
           back-end development. Designed responsive UIs resulting in a 40%
           reduction in page load times and designed robust backend systems
           enhancing server response time. Seeking to leverage expertise in
