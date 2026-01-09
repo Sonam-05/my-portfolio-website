@@ -5,8 +5,8 @@ const projects = [
     desc: "Architected responsive UIs using HTML, CSS, JavaScript, React, and Redux, cutting page load times by 40% with lazy loading. Designed robust backend systems with Node.js and Express, improving server response times by 35% with debouncing concept. Identified and troubleshot issues with front-end/back-end code, reducing bug resolution time by 50%.",
     tech: ["React", "API", "Node", "Express"],
     category: "Fullstack",
-    demo: "https://sonam-store.vercel.app",
-    github: "https://github.com/Sonam-05/Ecomm",
+    demo: "https://sonam-ecommerce-frontend.vercel.app",
+    github: "https://github.com/Sonam-05/Ecommerce-Web-App",
     image: null,
   },
   {
